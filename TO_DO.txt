@@ -3,6 +3,5 @@ Business legal
 Commentaires
 Email
 Nom complet
-Prénom virgule nom
-Téléphone
+PrÃ©nom virgule nom
 Ecoles
