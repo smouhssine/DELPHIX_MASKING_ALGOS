@@ -1,0 +1,1000 @@
+TOTAL 131 327 000 Pétrole, chimie
+CARREFOUR 85 963 000 Grande distribution
+GDF-SUEZ 79 908 000 Eaux, BTP, services
+EDF 66 336 000 Electricité
+PSA PEUGEOT CITROEN 48 417 000 Automobiles
+FRANCE TELECOM 45 944 000 Télécoms
+GROUPE AUCHAN 39 671 000 Distribution
+SAINT-GOBAIN 37 786 000 Production et distribution de matériaux de construction
+LOUIS DREYFUS 35 000 000 Négoce et services
+E. LECLERC 34 970 000 Hypermarchés
+VEOLIA ENVIRONNEMENT 34 551 000 Service à l’environnement
+GROUPE INTERMARCHE 34 000 000 Grande distribution
+RENAULT 33 712 000 Automobiles
+VINCI 32 459 000 Bâtiment, travaux publics, énergies, concessions
+BOUYGUES 31 353 000 Bâtiments, télécoms, médias
+SANOFI-AVENTIS 29 306 000 Pharmacie, cosmétiques
+AIRBUS SAS 27 793 000 Aéronautique
+RALLYE 27 478 000 Distribution
+VIVENDI 27 132 000 Médias et télécommunications
+CASINO* 26 757 000 Distribution alimentaire
+SNCF 24 882 000 Transports ferroviaires
+AIR FRANCE-KLM 20 994 000 Transport aérien
+LA POSTE 20 527 000 Courrier, services financiers
+ALSTOM 19 650 000 Energie, transport
+SYSTEME U 17 900 000 Centrale d’achats alimentaires
+CHRISTIAN DIOR 17 745 000 Produits de luxe
+L’OREAL 17 473 000 Cosmétiques
+LVMH 17 053 000 Produits de luxe
+GROUPE PPR 16 524 600 Distribution et luxe
+LAFARGE 15 884 000 Matériaux de construction
+SCHNEIDER ELECTRIC 15 793 000 Matériel électrique
+ALCATEL-LUCENT 15 157 000 Equipementier télécoms
+GROUPE DANONE 14 982 000 Alimentation
+MICHELIN 14 807 000 Manufacture et développement
+SODEXO 14 681 000 Restauration, services
+VINCI CONSTRUCTION* 13 834 196 Bâtiment, travaux publics
+EIFFAGE 13 639 000 Construction et concessions
+THALES 12 881 500 Electronique, défense
+VEOLIA EAU* 12 560 000 Services
+SFR* 12 374 300 Télécoms
+AIR LIQUIDE 11 976 100 Gaz industriels et médicaux
+SONEPAR 11 900 000 Matériel électrique
+COLAS* 11 581 000 Travaux routiers
+REXEL 11 307 300 Matériel électrique
+AUTOMOBILES PEUGEOT* 10 983 533 Automobiles
+CORA 10 500 000 Hypermarchés
+SAFRAN 10 448 000 Aérospatial, défense, sécurité
+ESSO-SAF 10 157 200 Pétrole
+LA FRANCAISE DES JEUX 9 997 400 Jeux
+BOUYGUES CONSTRUCTION* 9 546 000 Bâtiment, travaux publics
+PMU 9 302 000 Jeux
+FAURECIA* 9 292 200 Equipement automobile
+AREVA 8 529 000 Nucléaire
+LACTALIS 8 500 000 Produits laitiers
+GROUPE CAPGEMINI 8 371 000 Conseil, systèmes d’infogérance
+EUROVIA* 8 002 900 Travaux routiers
+LAGARDERE 7 892 000 Médias
+CMA-CGM 7 600 000 Transport maritime
+VALEO 7 499 000 Equipementier automobiles
+PERNOD RICARD 7 203 000 Vins et spiritueux
+ACCOR 7 065 000 Services
+DALKIA* 6 854 100 Installations thermiques
+OCP 6 802 000 Répartition pharmaceutique
+TECHNIP 6 456 000 Ingénierie
+HEWLETT- PACKARD FRANCE 6 108 084 Electronique, informatique
+GROUPE POINT P* 6 045 760 Matériaux de construction
+BOLLORE 6 011 000 Transport, industrie, communication et médias
+LIDL-FRANCE 6 000 000 Supermarchés
+DECATHLON-GROUPE OXYLANE 5 440 000 Sports, loisirs
+BOUYGUES TELECOM* 5 368 500 Téléphonie mobile
+NESTLE FRANCE 5 334 021 Alimentation
+GEODIS 5 162 400 Transport, logistique
+VOLKSWAGEN-FRANCE 5 145 108 Importation d’automobiles et de pièces détachées
+ATOS ORIGIN 5 127 000 Informatique, conseil
+UNION IN VIVO 5 085 878 Distribution agrofournitures
+GROUPE GALERIES LAFAYETTE 5 069 000 Grands magasins, citymarchés
+NEXANS 5 045 000 Câbles électriques
+BP-FRANCE 5 004 000 Pétrole
+WENDEL INVESTISSEMENT 4 865 000 Holding industrielle
+ALLIANCE HEALTHCARE FRANCE 4 851 635 Répartition pharmaceutique
+FRANPRIX LEADER PRICE* 4 738 000 Distribution
+EUROCOPTER-FRANCE 4 570 000 Aéronautique
+PUBLICIS GROUPE 4 524 000 Communication
+GROUPE BIGARD 4 500 000 Viandes, salaisons
+LEROY MERLIN-FRANCE 4 480 000 Bricolage
+VALLOUREC 4 465 000 Métallurgie
+ARKEMA 4 444 000 Chimie
+RATP 4 432 000 Transports urbains
+FNAC* 4 375 000 Distribution spécialisée
+METRO CASH & CARRY 4 339 393 Libre-service de gros
+VINCI ENERGIES* 4 339 000 Installations électriques et thermiques
+CIMENTS FRANCAIS 4 215 000 Ciment
+SEQUANA CAPITAL 4 088 000 Papier
+RHODIA 4 031 000 Chimie
+ARCELORMITTAL ATLANTIQUE/LORRAINE 3 992 929 Sidérurgie
+EIFFAGE TRAVAUX PUBLICS* 3 731 000 Travaux routiers
+SPIE 3 730 000 Ingénierie électrique, télécoms, services
+EIFFAGE CONSTRUCTION* 3 704 000 Bâtiment, travaux publics
+GROUPE MONOPRIX* 3 660 000 Distribution
+MC DONALD’S-FRANCE 3 600 000 Restauration rapide
+SERVIER 3 600 000 Pharmacie
+LEGRAND 3 577 500 Matériel électrique
+ELIOR 3 561 500 Restauration
+TECHNICOLOR (ex-THOMSON) 3 529 000 Electronique grand public
+FRANCAP DISTRIBUTION 3 500 000 Supermarchés
+TERRENA 3 452 515 Coopérative agricole
+KEOLIS* 3 424 000 Transports en commun
+DASSAULT AVIATION 3 421 179 Aéronautique
+TEREOS 3 409 000 Sucres et alcools
+GALEC* 3 402 392 Centrale d’achat
+COFELY* 3 400 000 Energie, chauffage
+AUTOROUTES DU SUD DE LA FRANCE* 3 394 300 Exploitation d’autoroutes
+LAGARDERE SERVICES* 3 388 000 Produits et services de loisirs culturels
+REDCATS GROUP* 3 386 000 Vente par correspondance
+IBM-FRANCE 3 365 200 Informatique
+LE CHEQUE DEJEUNER CCR 3 356 913 Services
+MANPOWER-FRANCE 3 342 000 Travail temporaire, recrutement, formation
+ADECCO FRANCE 3 286 705 Travail temporaire
+BONGRAIN 3 279 300 Produits laitiers et fromagers
+ESSILOR INTERNATIONAL 3 267 979 Verres correcteurs
+GROUPE SOUFFLET 3 239 695 Céréales
+GROUPE SEB 3 176 300 Petit électroménager et articles culinaires
+ASTERA 3 137 548 Répartition pharmaceutique
+ASTRIUM 3 033 252 Aéronautique
+FRANCE TELEVISIONS 3 016 100 Télévision
+SUCRES ET DENREES 3 004 787 Sucres et autres denrées
+VIVARTE 3 000 000 Chaussures et habillement
+BOUYGUES IMMOBILIER* 2 989 000 Promotion immobilière
+SMAE* 2 933 812 Equipementier
+CONFORAMA* 2 928 000 Meubles, électroménager
+CEGELEC* 2 840 000 Ingénierie
+NEXITY 2 838 000 Immobilier, services
+CARGILL-FRANCE 2 826 617 Oléagineux
+MERCEDES BENZ FRANCE 2 816 567 Concession auto
+RENAULT TRUCKS 2 812 280 Camions, autocars
+ALDI 2 800 000 Supermarchés
+AXEREAL – EPIS CENTRE 2 800 000 Produits agricoles
+ANTALIS INTERNATIONAL* 2 790 000 Supports de communication
+IMERYS 2 773 700 Valorisation de minéraux industriels
+DARTY 2 720 000 Electroménager, multimédia, téléphonie
+GROUPE NORBERT DENTRESSANGLE 2 719 428 Transport routier et logistique
+SIEMENS-FRANCE 2 700 000 Industrie électrique et électronique
+RANDSTAD INTERIM 2 690 000 Services en ressources humaines
+ERAMET 2 689 000 Nickel, alliages, aciers spéciaux, manganèse
+BUREAU VERITAS* 2 648 000 Contrôle
+SCAMARK* 2 646 358 Alimentation
+AEROPORTS DE PARIS 2 633 434 Gestion d’aéroports
+POMONA 2 628 108 Agroalimentaire
+CASTORAMA-FRANCE 2 627 512 Bricolage
+ALCATEL-LUCENT FRANCE* 2 621 186 Télécoms
+CFAO* 2 582 000 Distribution automobile et pharmaceutique
+SAMSUNG ELECTRONICS-FRANCE 2 580 447 Electronique
+PETROLES SHELL 2 542 504 Raffinage, distribution
+SELECTOUR VOYAGES 2 520 000 Agence de voyages
+TRANSDEV 2 513 000 Transport de voyageurs
+CHAMPAGNE CEREALES 2 511 613 Commerce de céréales et semences
+DESCOURS ET CABAUD 2 508 852 Aciers, outillage
+ROBERT BOSCH 2 500 000 Automobile, électroménager
+ALSTOM TRANSPORTS* 2 496 183 Equipement industriel
+ARKEMA FRANCE* 2 493 800 Chimie
+SODIAAL 2 486 100 Produits laitiers
+HEWLETT-PACKARD-FRANCE 2 464 254 Distribution et services informatiques
+BURELLE 2 460 900 Plastiques
+PLASTIC OMNIUM* 2 458 639 Equipements automobiles
+DERICHEBOURG 2 431 500 Métaux
+ALTADIS DISTRIBUTION FRANCE 2 418 078 Distribution
+LILLY-FRANCE 2 384 883 Laboratoire pharmaceutique
+TF1* 2 364 700 Télévision
+FORCLUM* 2 312 525 Travaux électriques
+DCNS 2 310 866 Armement naval
+ROQUETTE FRÈRES 2 300 000 Produits amylacés
+LAGARDERE PUBLISHING* 2 273 000 Edition multimédia
+HACHETTE LIVRE* 2 273 000 Edition
+IKEA-FRANCE 2 261 842 Equipement de la maison
+GROUPE FAYAT 2 258 772 Construction et matériel industriel
+UNILEVER BESTFOODS-FRANCE 2 244 979 Huiles alimentaires
+CGG – VERITAS 2 233 200 Ingénierie du sous-sol
+FROMAGERIES BEL 2 220 655 Produits laitiers, fromageries
+ZODIAC 2 205 696 Equipement aéronautique et nautique
+PHILIPS-FRANCE 2 200 571 Electronique
+AGRIAL 2 171 496 Coopérative agricole et agroalimentaire
+LDC 2 065 100 Volailles
+SYSTEME U EST* 2 063 331 Centrale d’achat
+GENERALE DE SANTE 2 046 200 Etablissements hospitaliers privés
+3 SUISSES INTERNATIONAL 2 016 000 Vente par correspondance
+DIESTER INDUSTRIE 2 007 662 Combustibles
+STEF-TFE 1 984 000 Transport frigorifique
+FMC AUTOMOBILES 1 955 003 Automobiles
+ILIAD 1 954 500 Télécoms
+LBV YVES ROCHER 1 934 412 Cosmétiques, textile
+JCDECAUX 1 918 800 Mobilier urbain
+HERMES INTERNATIONAL 1 914 300 Sellerie, maroquinerie
+BASF EN FRANCE 1 900 000 Chimie, pharmacie
+VICAT 1 896 000 Matériaux de construction
+GLAXOSMITHKLINE 1 887 006 Pharmacie
+AUTOROUTES PARIS-RHIN-RHONE* 1 860 038 Gestion d’autoroutes
+COCA-COLA ENTREPRISE 1 849 950 Boissons
+TELEPERFORMANCE 1 847 654 Télémarketing
+CANAL +* 1 844 000 Télévision
+NOVARTIS GROUPE 1 820 648 Santé
+PIERRE FABRE 1 800 000 Pharmacie, cosmétiques
+AREVA NP* 1 780 914 Nucléaire
+DELL FRANCE 1 743 631 Distribution informatique
+ECS EUROPE COMPUTER SYSTEMES 1 741 603 SSII
+GROUPE ENTREMONT 1 736 000 Produits laitiers
+SPIE BATIGNOLLES 1 727 873 Travaux publics, bâtiment et travaux publics
+LAGARDERE ACTIVE* 1 725 000 Audiovisuel
+GEFCO* 1 714 524 Commissionnaire de transports
+TARKETT 1 707 800 Textile
+LASER* 1 700 000 Services d’intermédiation et de relation clients
+PROVIMI 1 686 700 Nutrition animale
+ETDE* 1 679 754 Réseaux électriques
+CERP-RHIN-RHONE-MEDITERRANEE 1 654 943 Répartition pharmaceutique
+AS 24* 1 631 473 Carburants
+STERIA 1 629 977 SSII
+COOPAGRI BRETAGNE 1 623 000 Agroalimentaire
+PROCTER & GAMBLE-FRANCE 1 596 476 Produits d’entretien, hygiène
+PFIZER FRANCE 1 595 880 Pharmacie
+SAIPOL 1 582 938 Huiles et graisses brutes
+BIC 1 562 700 Articles de papeterie, rasoirs, briquets
+TDF 1 550 000 Télédiffusion et prestations télécoms
+ALCAN ALUMINIUM PECHINEY 1 537 159 Métaux non ferreux
+ARJOWIGGINS* 1 534 000 Papiers techniques et de création
+TOYOTA-FRANCE 1 529 858 Automobiles
+BONDUELLE 1 523 949 Légumes, surgelés
+FIAT FRANCE 1 517 136 Automobile
+ICADE 1 506 000 Gestion immobilière
+ICADE 1 505 600 Développeur immobilier
+SICLAE* 1 498 069 Alimentation
+THALES COMMUNICATIONS* 1 473 310 Défense et sécurité
+COOPERL ARC ATLANTIC 1 460 625 Abattage de viandes
+PIERRE ET VACANCES 1 451 321 Tourisme, résidences de loisirs
+ARCELORMITTAL MEDITERRANEE 1 448 365 Sidérurgie
+NOVARTIS PHARMA* 1 442 331 Pharmacie
+HAVAS 1 441 000 conseil en communication
+GROUPE GLON 1 440 000 Produits agroalimentaires
+ROCHE 1 422 124 Distribution pharmaceutique
+SOGARA* 1 410 900 Hypermarchés
+ALTRAN TECHNOLOGIES 1 400 000 Conseil en technologies et innovation
+GROUPE EVEN 1 400 000 Produits agricoles
+THEVENIN ET DUCROT 1 396 336 Produits pétroliers
+ONET 1 390 000 Service aux entreprises
+BOUYGUES BATIMENT IDF* 1 388 168 Bâtiment
+DYNEFF 1 387 071 Produits pétroliers
+SANOFI PHARMA BRISTOL MYERS 1 383 906 Distribution
+M6 1 376 600 Télévision
+CHANEL 1 366 942 Parfums, couture et joaillerie
+ASTRAZENECA-FRANCE 1 360 785 Pharmacie
+CLUB MEDITERRANEE 1 360 000 Tourisme
+LA REDOUTE* 1 346 070 VPC
+ASTRAZENECA DUNKERQUE 1 335 043 Chimie
+TECH DATA-FRANCE 1 319 269 Informatique
+MONNOYEUR 1 312 000 Equipement industriel
+GROUPE DOUX 1 308 863 Volailles
+GENERAL MOTORS-FRANCE 1 307 785 Automobiles
+SAMSIC 1 300 000 Nettoyage industriel, intérim
+Mobivia Groupe 1 300 000 Equipement, accessoires automobiles
+EURALIS TEXTILE 1 294 000 Habillement
+GROUPE EURALIS 1 294 000 Produits agricoles
+EURALIS 1 290 000 Foie gras
+SONY-FRANCE 1 289 148 Electronique grand public
+SAUR-FRANCE 1 287 333 Eau et assainissement
+SIEMENS S A S* 1 286 662 Télécoms
+COFIROUTE* 1 285 700 Gestion d’autoroutes
+FIVES-LILLE 1 282 580 Ingénierie industrielle
+COMPAGNIE NATIONALE DU RHONE 1 276 503 Aménagement du territoire, production d’électricité
+EAUX MINERALES D’EVIAN* 1 273 618 Eaux minérales
+UNIBAIL-RODAMCO 1 257 300 Immobilier commercial
+MBDA-FRANCE 1 251 861 Systèmes de missiles
+DASSAULT SYSTEMES 1 251 344 Logiciels de CFAO-PLM
+BIOMERIEUX 1 233 400 Pharmacie
+GROUPE LIMAGRAIN 1 233 000 Semences
+EURO DISNEY 1 230 600 Parc de loisirs
+LU-FRANCE 1 227 376 Biscuiterie
+ISS-FRANCE 1 200 000 Multiservices
+AUTODISTRIBUTION 1 200 000 Pièces détachées automobiles et poinds lourds
+NUTRIXO 1 200 000 Alimentation
+SIPA 1 200 000 Holding groupe Ouest France
+PICOTY 1 197 594 Produits pétroliers
+YARA-FRANCE 1 187 144 Engrais, produits chimiques
+SAIPEM 1 177 574 Ouvrages maritimes
+IVECO-FRANCE 1 170 660 Véhicules utilitaires et industriels
+FERRERO-FRANCE 1 164 604 Chocolaterie, confiserie
+GROUPE PAGES JAUNES 1 163 901 Régie publicitaire, annuaires
+TRANSGOURMET FRANCE 1 149 672 Services
+SEVELNORD 1 146 915 Automobiles
+CECAB GROUPE 1 146 000 Agroalimentaire
+SOLETANCHE BACHY* 1 140 000 Travaux souterrains
+GROUPE INTERSPORT 1 130 000 Articles de sport
+GROUPE CRIT 1 127 598 Travail temporaire
+OTIS 1 127 035 Ascenseurs
+LAMY 1 125 620 Import-export charbon
+BULL 1 109 900 Informatique
+GROUPE ROULLIER 1 105 000 Agrofournitures, technologies marines
+SENOBLE 1 100 000 Produits laitiers frais
+LEROY-SOMER 1 100 000 Electromécanique et électronique
+SOPREMA 1 098 091 Matériaux d’étanchéité, isolation, couverture
+MERCK-SHARP-DOHME-CHIBRET 1 096 822 Pharmacie
+SOPRA GROUP 1 094 300 Services informatiques
+PICARD SURGELES 1 091 408 Produits surgelés
+SOCAMAINE 1 085 259 Centrale d’achats
+EVIALIS INVIVO NSA 1 081 900 Alimentation animale
+DELMAS* 1 065 856 Transport maritime
+GROUPE LUCIEN BARRIERE 1 065 000 Casinos, hôtels-restaurants
+VILMORIN CLAUSE & CIE* 1 064 000 Agroalimentaire
+COMPASS GROUP FRANCE 1 063 632 Restauration collective
+LG ELECTRONICS FRANCE 1 063 594 Matériel électrique
+SEITA – ALTADIS 1 060 491 Tabacs, allumettes
+BRISTOL-MYERS SQUIBB 1 053 280 Industrie pharmaceutique
+NEXANS FRANCE* 1 052 561 Matériel électrique
+LYONDELL CHIMIE-FRANCE 1 051 774 Pétrochimie
+EUTELSAT COMMUNICATIONS 1 047 224 Télécoms
+HONDA MOTOR-EUROPE 1 041 162 Concession auto
+SNF FLOERGER – SPCM 1 040 000 Polymères hydrosolubles
+GROUPE IPSEN 1 032 807 Pharmacie
+ARIANESPACE 1 029 330 Transports spatiaux
+GE MEDICAL SYSTEMS 1 024 228 Imagerie médicale
+GROUPE SCHIEVER 1 023 330 Supermarchés
+STELA* 1 021 545 Produits pétroliers
+E ON FRANCE 1 020 348 Energie
+ETAM 1 020 000 Habillement
+ADIA 1 016 010 Travail temporaire
+SANEF 1 013 172 Gestion d’autoroutes à péage
+JOHN DEERE 1 012 278 Machines agricoles
+NISSAN-FRANCE 1 012 029 Concessionnaire auto
+MAISADOUR 1 003 000 Produits agricoles
+ARC INTERNATIONAL 1 000 000 Arts de la table
+LR SERVICES 991 860 Logistique
+FONCIERE DES REGIONS 991 100 Immobilier
+CNH-FRANCE 983 538 Matériel de travaux publics et agricole
+HEINEKEN 980 000 Brasserie
+BOMBARDIER TRANSPORT 978 237 Matériel ferroviaire
+GROUPE DUBREUIL 975 487 Pièces auto, produits pétroliers…
+BOURBON 960 500 Services maritimes
+KIABI 958 121 Habillement
+RUBIS 951 945 GPL et stockage de produits liquides
+IMMOBILIERE 3F 948 184 Bailleur social
+SYNERGIE 947 663 Travail temporaire
+GROUPE NGE 945 128 Terrassement
+SAINT-GOBAIN PAM* 944 532 Canalisations
+IPSOS 943 679 Etudes, sondages
+SEPHORA-FRANCE* 941 359 Produits de beauté
+GROUPE WELCOOP 939 312 Répartition pharmaceutique
+V&M TUBES-FRANCE* 937 968 Métallurgie
+CANDIA* 936 347 Produits laitiers
+GROUPE CAT 936 000 Transport, logistique
+KAUFMAN & BROAD 934 909 Promotion immobilière
+NEOPOST 913 000 Machines à affranchir
+SAMSE 910 764 Matériaux de construction
+OBERTHUR 904 600 Imprimerie fiduciaire
+YOPLAIT* 900 000 Produits laitiers frais
+CHARAL* 888 260 Abattage et transformation de viandes
+NEXTER SYSTEMS 886 957 Systèmes d’armement
+SNEF 885 937 Installations électriques
+SCC FRANCE 883 467 Micro-informatique
+SCHENKER 880 000 Transport international
+GROUPE AGRALYS 876 882 Céréales et agrofournitures
+FAIVELEY 875 948 Equipementier ferroviaire
+CEGEDIM 874 070 Services informatiques
+SCHERING-PLOUGH 872 803 Pharmacie
+THALES AVIONICS* 871 007 Electronique de vol
+UBISOFT 871 000 Editeur de jeux vidéo
+GROUPE BEAUMANOIR 857 600 Vêtements féminins
+ALTEN 857 100 Conseil, ingénierie
+LAPEYRE* 856 543 Menuiserie
+CIMENTS CALCIA* 855 686 Ciment
+SADE* 854 582 Réseaux hydrauliques
+SCA NORMANDE 854 091 Centrale d’achats
+BROSSETTE 852 423 Sanitaire, chauffage
+KORIAN 850 584 Gestion de maisons de retraite
+TRANSITYRE-FRANCE* 847 558 Equipementier
+PHOENIX PHARMA 844 540 Répartiteur pharmaceutique
+UPM-KYMMENE 844 180 Papier
+ORPEA 843 300 Maisons de retraite
+GO VOYAGES 840 000 Tour opérateur
+HYPARLO* 836 333 Hypermarchés
+COOP ATLANTIQUE 835 000 Distribution GMS
+CRENO 827 918 Fruits, légumes, produits de la mer
+WOREX* 825 021 Produits pétroliers
+ALCATEL LUCENT SUBMARINE* 824 715 Télécoms
+GROUPE FCA 820 000 Produits ménagers
+UNEAL 819 600 Produits agricoles
+SOVAB* 816 758 Véhicules utilitaires
+GROUPE ATLANTIC 815 153 Chauffage électrique
+BRASSERIES KRONENBOURG 814 000 Bières
+APRIL GROUP 813 000 Services en assurances
+NESTLE PURINA PETCARE-FRANCE* 812 389 Alimentation animale
+REMY COINTREAU 807 800 Vins et spiritueux
+CDISCOUNT* 803 422 E-commerce
+GEORGIA-PACIFIC FRANCE 802 721 Papiers sanitaires et domestiques
+BECTON DICKINSON-FRANCE 794 585 Matériel médical
+OPAC DE PARIS 794 077 Gestion immobilière
+THALES SYSTEMES AEROPORTES* 793 986 Aéronautique
+NCT NECOTRANS 793 181 Transports, logistique pétrolière
+BERNARD PARTICIPATIONS 791 803 Concessionnaire auto et poids lourds
+KPMG 790 723 Expertise comptable, audit, commissariat aux comptes
+COOPERATEURS DE NORMANDIE PICARDIE 787 258 Supermarchés
+BUTAGAZ 785 721 Gaz liquéfiés
+GUEUDET APSG 784 848 Concessionnaire auto
+JARDILAND 780 000 Jardineries spécialisées
+UFP INTERNATIONAL 778 326 Consommables informatiques
+GROUPE PROVENCIA* 776 000 Supermarchés
+ARCELORMITTAL STAINLESS FRANCE 771 726 Sidérurgie
+LENSOISE DU CUIVRE* 771 665 Cuivre
+SAGA* 770 610 Transports
+ACCENTURE-FRANCE 769 264 Conseil en management, SSII
+PATHE 769 100 Cinéma, production, distribution, exploitation de films
+JANSSEN-CILAG 768 386 Produits pharmaceutiques
+CAMAIEU 765 236 Prêt-à-porter
+SOMFY 760 800 Automatismes pour volets roulants
+LES COMBUSTIBLES DE NORMANDIE* 753 900 Combustibles Chauffage
+CRAQUEUR DE L’AUBETTE 753 647 Chimie
+GEMALTO 751 661 Electronique
+EDITIS 751 100 Edition
+MYLAN 750 775 Pharmacie
+LA HALLE* 747 409 Vêtements
+DAHER 744 000 Services industriels
+MALTEUROP GROUP* 743 316 Produits agricoles 5mALT°
+VETIR 742 641 Textile
+FRANS BONHOMME 740 991 Canalisations plastiques
+GRANIT NEGOCE* 732 380 Céréales et oléagineux
+JTEKT EUROPE 732 285 Equipementier
+LES GRANDS CHAIS DE FRANCE 731 000 Vins et spiritueux
+STX FRANCE 730 264 Construction navale
+NEXTER SYSTEMS* 727 910 Armement
+DEMATHIEU ET BARD 727 773 Bâtiment, travaux publics
+IMS INTERNATIONAL METAL SERVICE 727 114 Distribution d’aciers spéciaux
+FAGORBRANDT 727 034 Electroménager
+SOCAMIL 725 640 Centrale d’achats
+EIFFAGE TP* 725 612 Travaux publics
+COOPERATEURS D’ALSACE 724 093 Grande distribution
+LESIEUR 723 024 Huiles alimentaires
+FOTOVISTA PIXMANIA 719 950 Distribution électronique
+SAINT-LOUIS SUCRE 718 487 Sucrerie
+ABBOTT-FRANCE 718 124 Pharmacie
+BLEDINA* 717 674 Alimentation
+RIVA ACIER 717 109 Sidérurgie
+HENKEL-FRANCE 714 608 Détergents, produits d’entretien
+SKF-FRANCE 713 882 Roulements à billes
+DAVIGEL* 711 398 Surgelés
+H & M 710 219 Habillement
+LUBRIZOL-FRANCE 702 753 Technologie des fluides
+CGG VERITAS SERVICES* 702 386 Ingénierie pétrolière
+RICOH-FRANCE 700 821 Bureautique
+INGENICO 700 684 Monétique
+STMICROELECTRONICS ROUSSET 700 681 Electronique
+LOXAM 697 642 Location de matériel BTP, industrie
+MARS PF FRANCE 696 012 Alimentation
+SVA JEAN ROZE* 695 118 Viandes
+LISI GROUP 695 071 Fixations industrielles
+GROUPE GO SPORT* 693 800 Articles de sport
+STMICROELECTRONICS 691 986 Composants électroniques
+VENTE PRIVEE.COM 690 000 e-commerce
+PHILIP MORRIS-FRANCE 686 457 Tabac
+SCAEL 686 395 Céréales
+MANITOU 684 100 Matériel de manutention
+CERP-BRETAGNE-NORD 682 595 Répartition pharmaceutique
+INSTITUT FRANCAIS DU PETROLE 682 100 Recherche et développement en sciences
+HACHETTE FILIPACCHI ASSOCIES* 681 584 Presse, publicité
+ORANGINA SCHWEPPES 681 447 Boissons
+FM LOGISTIC 677 459 Logistique
+SCAPSUD 677 336 Alimentation
+BRICORAMA 675 735 Articles de bricolage
+HENNESSY* 672 835 Cognac
+RELAIS H* 670 678 Distribution de presse
+TNT EXPRESS FRANCE 669 163 Express
+GOODYEAR DUNLOP TIRES-FRANCE 666 317 Pneumatiques
+SAINT-GOBAIN EMBALLAGE* 664 037 Verre creux
+GFI INFORMATIQUE 663 600 SSII
+MERIAL 660 789 Médicaments vétérinaires
+GROUPE BENETEAU 659 200 Bateaux de plaisance
+GROUPE AMAURY 658 885 Presse, événements sportifs
+SCHIEVER DISTRIBUTION* 656 481 Distribution
+ACER COMPUTER-FRANCE 655 633 Micro-informatique
+PIERRE FABRE DERMO-COSMETIQUE* 655 559 Cosmétiques
+AVENANCE ENSEIGNEMENT ET SANTE* 649 737 Restauration et services
+LES NOUVEAUX CONSTRUCTEURS 649 100 Promotion immobilière
+AUBERT & DUVAL* 647 995 Forge
+RABOT DUTILLEUL INVESTISSEMENT 647 203 Promotion, construction, maintenance
+GECINA 647 196 Location immobilière
+EUROFINS SCIENTIFIC 640 073 Analyses biologiques
+3A GROUPE 637 200 Produits laitiers, patisseries surgelées, fromages
+TRIGANO 636 200 Camping-cars, caravanes
+DELACHAUX 636 011 Electrométallurgie ferroviaire
+SECURITAS-FRANCE 635 800 Surveillance
+CRISTAL UNION 634 890 Sucrerie
+CHRONOPOST 632 208 Messagerie, fret express
+CANON-FRANCE 630 115 Informatique, Bureautique
+KERMENE* 630 052 Viandes
+KUHN 630 000 Machines agricoles
+CASTEL FRERES 625 685 Vins
+PROMOGIM 623 000 Promotion immobilière
+ZARA-FRANCE 620 280 Habillement
+ALVEA* 620 170 Lubrifiants
+BELVEDERE 618 972 Bouteilles et alcools blancs
+RECKITT BENCKISER-FRANCE 618 674 Produits d’entretien
+BARRY CALLEBAUT FRANCE 618 493 Chocolaterie
+ALCATEL BUSINESS SYSTEMS* 617 319 Matériel téléphonique
+ORACLE-FRANCE 614 684 Editeur de logiciels
+MEUBLES RAPP 614 133 Meubles
+CAVES DE ROQUEFORT* 613 473 Industrie fromagère
+ASSYSTEM 613 100 Conseils en ingénieurie
+ENTREPOSE CONTRACTING* 612 700 Travaux publics
+LEON GROSSE 610 807 Bâtiment, travaux publics
+GIFI 610 591 Distribution spécialisée
+ESCOTA* 609 700 Autoroutes
+VM MATERIAUX 609 355 Matériaux de construction
+GROUPE SNPE 609 100 Matériaux énergétiques
+MERCK SANTE 606 135 Pharmacie
+SOPARVOL* 604 379 Alimentation
+KONE 603 709 Ascenseurs
+PLACOPLATRE* 603 252 Matériaux de construction
+GROUPE ORTEC 602 601 Services industriels
+NOCIBE FRANCE 601 000 Parfumerie sélective
+QUILLE* 599 331 Bâtiment, travaux publics
+ROUX COMBALUZIER SCHINDLER 598 505 Ascenseurs
+PRESTIGE ET COLLECTIONS INTERNATION.* 595 194 Parfums
+RADIO-FRANCE 594 400 Audiovisuel
+GROUPE AKERYS 594 294 Promotion, commercial, services financier
+FAURECIA INTERIEUR INDUSTRIE 593 320 Equipementier automobiles
+VAM* 590 526 Tubes en acier
+NIDERA-FRANCE 590 253 Négoce Céréales et oléagineux
+ABB FRANCE 589 068 Matériel électrique
+ROYAL CANIN 587 392 Alimentation animale
+MERSEN CARBONE LORRAINE 587 000 Composants industriels
+GROUPE COOPERATIF OCCITAN 586 623 Produits agricoles
+LIEBHERR-FRANCE 586 146 Matériel de travaux publics
+XEROX-FRANCE 585 700 Bureautique
+AGCO 582 355 Tracteurs
+RENAULT DOUAI* 581 893 Automobiles
+GL EVENTS 581 400 Ingénierie et logistique événementielles
+CLAAS-FRANCE 581 323 Machines agricoles
+VERLINGUE 581 000 Courtier en assurances
+CNIM 579 779 Mécanique
+SPIR COMMUNICATION* 577 100 Journaux gratuits
+COMPAGNIE DES ALPES 575 976 Domaines skiables et parcs de loisirs
+BRAKE-FRANCE 575 180 Surgelés
+3M-FRANCE 574 924 Adhésifs, Bureautique
+AMADEUS 574 155 Services informatiques
+GROUPE EUROTUNNEL 571 133 Gestionnaire d’infrastructures de transport
+EURIAL POITOURAINE 571 070 Produits laitiers
+AVENIR TELECOM 570 871 Téléphonie mobile
+EURODEP* 570 350 Entreposage et stockage
+RICOH INDUSTRIE-FRANCE 566 508 Bureautique
+PROMOD 566 266 Prêt-à-porter et accessoires
+GPDIS PULSATEXPANSION 566 238 Radio, hifi, vidéo
+QUICK-FRANCE 565 965 Restauration rapide
+PB & M OUEST 565 720 Matériaux de construction
+POWEO 564 681 Fourniture d’électricité
+EASYDIS* 562 787 Logistique
+TEMSYS 559 671 Location longue durée de véhicules
+SAFT* 559 300 Batteries, piles
+FIMALAC 559 100 Services financiers
+TAT GROUP 557 632 Maintenance aéronautique
+OBERTHUR CARD SYSTEMS* 556 742 Cartes à puce
+SNR ROULEMENTS 553 160 Roulements à billes
+CLEMESSY* 553 000 Equipement électrique
+GASCOGNE 552 081 Bois, papier, emballages
+HERTA* 550 000 Charcuterie
+DOW-FRANCE 548 491 Chimie
+MR BRICOLAGE 547 457 Bricolage
+DDB FRANCE 546 894 Publicité
+CENTRALE D’APPROVISIONNEMENT DES LANDES 546 650 Centrale d’achats
+BSH ELECTROMENAGER 546 576 Electroménager
+ERNST & YOUNG 545 928 Audit, conseil, droit, finance
+BAYER SANTE 545 702 Pharmacie
+ATALIAN 544 000 Nettoyage
+ANTARGAZ 542 603 Gaz
+NUMERICABLE 542 513 Télécoms
+GLAC 541 283 Produits laitiers
+PRISMA PRESSE 539 000 Editeur de presse magazine
+WYETH PHARMACEUTICALS-FRANCE 538 971 Pharmacie
+L’OCCITANE 537 000 Parfumerie
+FLEURY MICHON 532 062 Charcuterie, salaisons
+TRANSALLIANCE HOLDING 531 907 Transport et logistique
+EXACOMPTA CLAIREFONTAINE 530 693 Papier
+CHANEL PARFUMS BEAUTE 530 134 Cosmétiques
+CROWN EMBALLAGE FRANCE 529 201 Emballage métallique et plastique
+GROUPE MARMARA 527 950 Voyagiste
+EVOBUS FRANCE 527 338 Automobiles
+BOIRON 526 089 Pharmacie, homéopathie
+MILLIPORE 524 060 Appareils de filtration et de purification
+RICARD* 523 621 Boissons, spiritueux
+KUEHNE + NAGEL MANAGEMENT 523 612 Services logistiques
+VALEO EQUIPEMENTS ELECTRIQUES MOTEUR* 522 958 Equipementier
+DAMARTEX 522 300 Habillement
+HUTCHINSON 522 000 Plastiques
+CADBURY-FRANCE 520 553 Chocolaterie
+GROUPE GAGNERAUD 519 000 Bâtiment, travaux publics
+GUYENNE ET GASCOGNE 518 354 Distribution alimentaire
+AGIP FRANÇAISE 518 351 Produits pétroliers
+SCHAEFFLER-FRANCE 517 507 Roulements
+TEXAS INSTRUMENTS-FRANCE 515 579 Electronique
+LE DUNOIS* 513 573 Céréales
+DELOITTE 512 412 Cabinet d’audit
+BUFFALO GRILL 512 000 Restauration
+LE GOUESSANT 511 055 Alimentation animale
+ALCYON-FRANCE 510 731 Produits vétérinaires
+REGIONAL CIE AERIENNE* 508 808 Compagnie aérienne
+PRIMAGAZ 507 421 Gaz et GPL
+BERGERAT MONNOYEUR* 507 240 Matériels de travaux publics
+BOUWFONDS MARIGNAN 507 000 Promotion immobilière
+LAGARDERE SPORTS* 507 000 Médias, marketing du sports
+KELLOGG’S PRODUITS ALIMENTAIRE 500 296 Importation et distribution de céréales prêts à consommer
+MANITOWOC CRANE GROUP FRANCE 500 000 Manutention, levage
+INEOS MANUFACTURING-FRANCE 499 047 Plastiques
+CARCOOP FRANCE* 498 810 Distribution
+INFINEUM FRANCE 498 688 Chimie
+CORSAIRFLY 498 435 Transport aérien
+SCAPNOR 498 032 Centrale d’achats
+TBWA FRANCE 497 689 Agences de publicité
+ARCELORMITTAL SOLUTIONS FRANCE 494 398 Métaux
+GSE 493 890 Conception et réalisation de bâtiments industriels
+COLGATE-PALMOLIVE 493 792 Hygiène, entretien
+HGCC 490 278 Bâtiment, travaux publics
+OGF 489 539 Services funéraires
+MANUTAN INTERNATIONAL 488 600 Distribution équipements industriels
+HISPANO-SUIZA* 488 581 Ensembles propulsifs aéronautiques
+GROUPE HOLDER 488 000 Boulangeries
+ALTAVIA 486 530 Communication commerciale
+BRIT-AIR* 485 094 Transport aérien
+CSP 484 183 Pharmacie
+FENWICK-LINDE 483 782 Chariots de manutention
+ENDEL* 482 321 Maintenance industrielle
+MEDICA-FRANCE 480 700 Médico-social
+CARRIER 480 559 Climatisation
+MOVIANTO FRANCE 478 069 Produits pharmaceutiques
+GROUPE HEPPNER 477 000 Transport, logistique
+RHODIA ENERGY* 476 402 Chimie
+VIRBAC 476 400 Produits vétérinaires
+AGRO PICARDIE 475 937 Alimentation
+SOLETANCHE BACHY FRANCE* 472 144 Bâtiment, travaux publics
+CAVAC 472 011 Céréales et aliments
+TOSHIBA SYSTEMES-FRANCE 467 203 Bureautique
+SIDEM* 465 407 Ingénierie
+COMPAGNIE PETROLIERE DE L’EST* 465 228 Produits pétroliers
+GROUPE SUD-OUEST 465 000 Presse
+UPS 464 667 Messagerie express
+ASCOMETAL 463 609 Aciers spéciaux
+WÜRTH-FRANCE 461 500 Produits de fixation
+NOURICIA 460 835 Coopérative agricole
+CODIREP 460 792 Distribution
+FRANCE TELEVISIONS PUBLICITE* 460 345 Régie publicitaire
+CELIO 459 911 Habillement
+DEVOTEAM 459 541 SSII
+THYSSENKRUPP MATERIALS-FRANCE 458 871 Aciers spéciaux
+BHV* 458 681 Grands magasins
+CHEVRON ORONITE 458 203 Additifs lubrifiants
+WHIRLPOOL-FRANCE 456 956 Electroménager
+AREA* 454 000 Gestion d’autoroutes
+VOYAGES FRAM 453 581 Tour opérating
+PRYSMIAN CABLES ET SYSTEMES 453 141 Câbles, systèmes
+GROUPE PARTOUCHE 453 000 Casinos, jeux
+CPO 452 216 Produits pétroliers
+EXEL INDUSTRIES 452 167 Pulvérisateurs agricoles et industriels
+CHARGEURS 451 600 Textile de protection de surface
+AMGEN 451 122 Pharmacie
+ELECTROLUX HOME PRODUCTS-FRANCE 450 000 Electroménager
+LA FOIR’FOUILLE 450 000 Centrale d’achats
+SOCIETE ALLUMETTIERE FRANCAISE 449 944 Distribution
+LATECOERE 449 446 Equipementier aéronautique
+BRIDGESTONE FIRESTONE-FRANCE 448 372 Pneumatiques
+SMAC* 448 344 Travaux d’étanchéité, voirie
+GAD 446 831 Viandes de porc
+SERCEL* 445 815 Matériel électronique géophysique
+SFPI 443 770 Mécanique
+JOLIETTE MATERIEL 442 594 Fournitures plomberie chauffage
+SERVAIR* 442 134 Restauration et assistance aéroportuaire
+COMASUD* 442 114 Matériaux de construction
+GFC CONSTRUCTION* 442 004 Bâtiment
+RICHARDSON* 440 973 Chauffage, sanitaire, canalisations
+BMSO* 439 129 Matériaux de construction
+GPN* 438 553 Pétrole
+TERRES DU SUD 438 471 Produits agricoles
+GLENCORE CEREALES-FRANCE 437 147 Céréales
+RAMERY 437 000 Bâtiment, travaux publics
+VOLVIC* 435 706 Eaux minérales
+SAP-FRANCE 435 336 Progiciels de gestion
+CAPRI* 435 078 Promotion immobilière
+LUR BERRI 433 689 Produits agricoles
+SOCOTEC 433 326 Maîtrise des risques
+SOGERMA 432 700 Maintenance aéronautique
+BUT 432 451 Ameublement
+ND LOGISTICS* 431 671 Prestations logistiques
+SPBI* 431 480 Construction navale
+GTS INDUSTRIES 430 975 Tôles fortes en acier
+ARCELOR CONSTRUCTION-FRANCE 429 909 Profilage à froid
+DMS* 429 892 Produits pétroliers
+SUZUKI-FRANCE 429 256 Motocycles
+PONTICELLI FRERES 428 570 Tuyauterie industrielle
+GMD 427 955 Découpage-emboutissage
+GRANDS MOULINS DE PARIS 427 858 Meunerie, viennoiserie
+MEDIAPOST* 427 195 Agences de publicité
+MICROMANIA 427 092 Jeux vidéo
+SOGERES* 427 031 Restauration collective
+MESSIER-BUGATTI* 424 735 Aéronautique
+EMC 2 421 654 Produits et machines agricoles
+BABOU 421 653 Habillement
+ALTIS 421 109 Hypermarchés
+SOLINEST 420 493 Alimentation
+SAINT-GOBAIN DESJONQUERES 420 275 Flaconnage
+LAVALIN 419 512 Construction
+NOUVELLES FRONTIERES 418 792 Tourisme
+SCHENKER JOYAU 417 792 Transport
+PETIT FORESTIER 416 000 Location de véhicules frigorifiques
+MARTIN BELAYSOUD EXPANSION 415 859 Matériaux de construction
+CHARVET 415 288 Combustibles
+VALEO SYSTEMES THERMIQUES* 413 943 Equipementier automobile
+KRAFT FOODS 413 238 Café, chocolat
+ARMORINE 413 019 Produits pétroliers
+GERFLOR 413 000 Sols plastifiés
+CHRISTIAN DIOR COUTURE* 410 400 Haute couture
+SONY COMPUTER ENTERTAINMENT 408 288 Informatique
+PANASONIC-FRANCE 407 796 Electronique grand public
+NEWREST 407 000 Catering
+GUY DAUPHIN ENVIRONNEMENT 406 655 Récupération de ferraille
+UNIBETON 406 562 Béton prêt à l’emploi
+THYSSENKRUPP ASCENSEURS 406 335 Ascenseurs
+BRENNTAG 404 847 Chimie
+LAITERIE SAINT-DENIS-DE-L’HOTEL 400 913 Produits laitiers
+EIFFAGE TP RHONE-ALPES/AUVERGNE* 398 090 Travaux publics
+MAISONS FRANCE CONFORT 395 843 Maisons individuelles
+BOEHRINGER INGELHEIM-FRANCE 394 638 Pharmacie
+CEVA SANTE ANIMALE 394 500 Pharmacie vétérinaire
+GE CAPITAL FLEET SERVICES 394 437 Location de véhicules
+FRANCE LOISIRS 391 400 Loisirs culturels
+BAXTER 391 396 Pharmacie
+ARMAND THIERRY 390 692 Habillement
+LE MONDE 390 000 Presse
+ESSEX EUROPE 387 800 fils et câbles
+SCA CENTRE 386 265 Centrale d’achats
+CARGLASS 385 501 Concessionnaire auto
+FINORDIS 383 922 Bois
+COMPLETEL-FRANCE 383 342 Opérateur
+CRAY VALLEY* 382 240 Résines
+VIVADOUR 382 000 Coopérative agricole
+DACHSER FRANCE 381 805 Prestations transports et logistiques
+DEXXON DATA MEDIA 381 223 Calculatrices, caisses enregistreuses
+UGITECH 379 372 Aciers inoxydables
+IDEX ET COMPAGNIE 378 917 Gestion thermique
+CSPLC 377 105 Embouteillage
+CAP SEINE 376 007 Groupe coopératif agricole
+ANTALIS* 375 720 Supports de communication
+LFB 375 671 Biotechnologies
+MANE FILS 375 493 Produits aromatiques
+MONTAIGNE DIFFUSION 375 462 Distribution
+WRIGLEY-FRANCE 374 874 Confiserie
+TOYS R US FRANCE 374 052 Jeux et jouets
+KIMBERLY-CLARK 373 808 Papiers sanitaires
+HMY INTERNATIONAL 373 405 Aménagement de surfaces de vente
+NORMA 370 000 Supermarchés
+PRATT ET WHITNEY 369 307 Equipement industriel
+BACARDI-MARTINI 368 755 Spiritueux
+EQUANT* 367 770 Télécoms
+DAIKIN AIRCONDITIONING 366 837 Climatisation
+COMPUTACENTER-FRANCE 366 808 Distribution informatique
+EUROSERUM* 366 348 Lactosérum
+ALTRAD 366 227 Echafaudages, bétonnières
+CARAVELLE 366 000 Holding diversifiée
+HOLCIM BETON FRANCE 365 998 Béton prêt à l’emploi
+CPCU* 365 708 Chauffage urbain
+SECHE ENVIRONNEMENT 365 700 Traitement de déchets
+ANOVO 365 465 Télécoms et multimédia
+GROUPE FLO 364 500 Restauration
+EAUX DE PARIS* 363 961 Distribution d’eau
+TEFAL* 363 732 Ustensiles culinaires anti-adhérents, pesage domestique
+STMICROELECTRONICS (CROLLES 2) 363 695 Electronique
+TROUILLARD* 362 909 Matériaux de construction
+AKERYS PROMOTION* 359 928 Promotion immobilière
+DOUWE EGBERTS-FRANCE 359 330 Alimentation
+TOUPARGEL GROUPE 359 064 Livraison surgelés et frais
+ALINEA* 358 615 Meubles et décoration
+VISTEON SYSTEMES INTERIEURS 358 316 Plastiques
+MGI COUTIER 358 246 Equipementier automobile
+SPIE SUD-OUEST* 356 622 Bâtiment, travaux publics
+DIM 355 225 Textile
+DEVANLAY 353 232 Habillement
+RUEDUCOMMERCE 352 600 E-commerce
+BEIERSDORF 351 942 Cosmétiques, parapharmacie
+GENOYER 351 103 Industries pétrolières, gazières, hydrauliques
+LAFARGE PLATRES* 351 071 Plâtres, mousses isolantes
+EUROPCAR-FRANCE 350 602 Location de véhicules
+COLAS-RAIL* 350 450 Bâtiment, travaux publics
+LOGIREP* 350 000 Gestion immobilière
+EXPERTON-REVOLLIER 349 902 Métallurgie
+VALEO VISION* 348 870 Eclairage et signalisation
+INITIAL BTB 348 571 Blanchisserie
+ROCHE DIAGNOSTICS 347 491 Produits chimiques
+SPHERE 347 058 Emballages à usage ménager
+EPSON-FRANCE 346 906 Périphériques informatiques
+CONDAT 346 256 Papiers couchés
+ACIERIE DE L’ATLANTIQUE 345 894 Acier
+BREZILLON* 345 303 Bâtiment, travaux publics
+GROUPE LEGRIS INDUSTRIES 344 000 Ensemblier constructeur
+GENERAL MOTORS-STRASBOURG 343 912 Equipementier automobile
+SFNA* 343 816 Alimentation animale
+ARRIVE* 343 777 Abattage, transformation de volailles
+SIPA 342 459 Distribution automobile
+LA MARTINIQUAISE 342 169 Vins et spiritueux
+COOPERATIVE DROUAISE 341 477 Produits agricoles
+PROGIPHARM* 341 374 Pharmacie
+GILEAD SCIENCES 341 023 Pharmacie
+VIRGIN STORES 340 698 Disques musicaux et vidéos
+SYNGENTA SEEDS 340 640 Semences
+INTERNATIONAL PAPER-FRANCE 340 332 Papier
+SEVEAL* 339 706 Produits agricoles
+YAMAHA MOTOR-FRANCE 338 890 2 roues et produits à moteurs de loisirs
+LA MURE BIANCO 338 442 Produits pétroliers
+SICAPA 338 148 Produits phytosanitaires
+NRJ GROUP 337 477 Radio
+GAMM VERT* 337 192 Jardinage
+DIAPAR 336 936 Distribution
+SNF* 335 709 Polymères
+THYSSENKRUPP SOFEDIT 335 281 Equipements automobiles
+NEC COMPUTERS 335 210 Electronique
+SMARTBOX 335 000 Intermédiation de loisirs
+DIJON CEREALES 334 718 Produits agricoles
+CONVERTEAM 334 385 Matériel électrique
+FINANCIERE SNOP-DUNOIS 334 188 Découpage, emboutissage, assemblage
+GARAGE SAINT-MARTIN 334 112 Concessionnaire auto
+SEW-USOCOME 333 682 Moteurs électriques
+AKKA TECHNOLOGIES 332 688 Services informatiques
+BAI 332 300 Transport maritime
+ALCAN DUNKERQUE 331 075 Aluminium
+LE FIGARO 330 425 Presse
+FRADIM 329 492 Holding
+ARCELOR AUTOPROCESSING 328 132 Sidérurgie
+MANOIR INDUSTRIES 328 000 Forge, fonderie, transformation des métaux
+ID LOGISTICS 328 000 Logistique et transport
+SAINT-GOBAIN GLASS-FRANCE* 327 914 Vitrage
+FEU VERT* 327 315 Pièces détachées auto
+THALES OPTRONIQUE* 327 079 Equipements d’aide à la navigation
+LARIVIERE 325 906 Toitures
+PIGEON ENTREPRISES 324 049 Bâtiment, travaux publics
+BOTANIC 324 000 Horticulture
+XL AIRWAYS FRANCE 323 815 Transports aériens
+DRESSER RAND 323 527 Pompes, compresseurs
+COLT TELECOMMUNICATIONS FRANCE 323 067 Télécoms
+DE DIETRICH THERMIQUE 322 136 Chaudières pour chauffage central
+DIPA 321 830 Distribution
+CAMERON-FRANCE 321 761 Matériel de forage
+MONDADORI FRANCE 321 495 Presse
+DEUTSCH* 321 300 Connecteurs
+DV CONSTRUCTION* 320 847 Bâtiment, travaux publics
+LABEYRIE 320 229 Saumon fumé, foie gras
+TRYBA 320 000 Fenêtres, portes, vérandas, énergies renouvelables
+PAPREC 320 000 Recyclage de déchets
+SERVICES PETROLIERS SCHLUMBERGER 319 531 Ingénierie pétrolière
+MC CORMICK DUCROS-FRANCE 319 523 Agroalimentaire
+GROUPE PROMAN 319 341 Travail temporaire
+POWERTRAIN TECHNOLOGIES FRANCE 319 106 Mécanique
+CHAUSSON TRIALIS 319 035 Matériaux de construction
+ORLAIT 318 872 Produits laitiers
+VERMANDOISE DE SUCRERIES 318 723 Holding de sucreries
+ARJOWIGGINS PAPIERS COUCHES* 317 914 Papiers couchés
+NESTLE GRAND FROID* 317 408 Alimentation
+EAUX DE MARSEILLE 316 517 Traitement de l’eau
+SNETOR 316 416 Chimie
+SPIE SUD-EST* 316 250 Bâtiment, travaux publics
+OTOR 315 100 Emballages
+NA PALI QUIKSILVER ROXY 314 898 Habillement
+MEDTRONIC-FRANCE 314 316 Distribution
+OUEST REPARTITION 314 264 Répartiteur pharmaceutique
+AVERY DENNISON MATERIALS-FRANCE 313 798 Matériaux autoadhésifs
+LA DAUPHINOISE 313 726 Céréales
+SDEI 313 689 Distribution d’eau
+LEONI WIRING SYSTEMS FRANCE 312 140 Equipement automobile
+OREXAD 311 230 Fournitures industrielles
+MERCEDES BENZ PARIS 311 101 Concessionnaire auto
+WHEELABRATOR-ALLEVARD 310 000 Grenailles abrasives, outils diamantés
+FIRALP 310 000 Réseaux
+OUEST-FRANCE 309 504 Presse
+CSC 309 476 SSII
+PRESSTALIS 308 945 Distribution de presse
+WILLIAM SAURIN 308 629 Plats cuisinés
+GROUPE EFIDIS 308 569 Gestion immobilière
+GROUPE GUILLIN 308 300 Emballage alimentaire
+LEO PHARMA FRANCE 307 174 Pharmacie
+LAITERIE TRIBALLAT 306 856 Produits laitiers
+GROUPE SILICOMP* 306 831 Services informatiques
+PROSOL 306 044 Alimentation
+TECHNICATOME* 305 333 Ingénierie industrielle
+ROBERTET 305 093 Composition arômes et parfums
+GUERLAIN* 305 027 Cosmétiques
+CIAT 303 761 Matériel thermique
+VALOIS 303 062 Systèmes de pulvérisation
+CENTRAVET 303 049 Produits vétérinaires
+INBEV-FRANCE 303 026 Brasserie
+WARNER BROS FRANCE 302 874 Production et distribution de films
+MC BRIDE 302 578 Produits d’entretien
+BEAUTE PRESTIGE INTERNATIONAL 302 044 Parfums et cosmétiques
+ADOMA 301 446 Gestion immobilière
+EMC COMPUTER SYSTEMS FRANCE 301 172 Informatique
+LACIE GROUP 301 167 Périphériques de stockage
+ONDULINE 300 000 Matériaux de construction
+COLAS SUD-OUEST* 299 906 Travaux publics et routiers
+UNION EST AGRO 299 777 Chimie
+UNIVAR FRANCE 299 613 Chimie
+ETAM LINGERIE* 299 523 Distribution
+BOSTIK 299 451 Parachimie
+EUROSPORT* 299 413 Edition de chaînes thématiques
+SCANIA-FRANCE 298 077 Poids lourds
+IDM 297 664 Concessionnaire auto
+ADREXO* 297 291 Routage
+OKAÏDI 297 230 Vêtements enfants et accessoires
+SALM 297 196 Meubles de cuisine et salle de bains
+BRINK’S EVOLUTION 296 882 Sécurité fiduciaire
+CETE-APAVE SUD EUROPE 296 714 Etudes techniques
+NORPAC* 296 016 Bâtiment, travaux publics
+COVED 294 633 Collecte et traitement des déchets
+GASTRONOME ELEVAGE 293 043 Alimentation
+EIFFAGE VAL-DE-SEINE* 292 944 Travaux publics
+PANAVI 292 897 Boulangerie
+GROUPE PICHET 292 119 Promotion immobilière
+FIDAL 292 033 Cabinet d’avocats
+ARCELORMITTAL STAINLESS ALLOYS 291 795 Sidérurgie
+EIFFAGE TP MEDITERRANEE* 290 665 Travaux publics
+GROUPE OPEN 290 400 SSII
+BLUESTAR SILICONES FRANCE* 290 303 Chimie
+BASELL-FRANCE 290 163 Plastiques
+GTM TERRASSEMENT* 289 437 Bâtiment
+NOVO NORDISK PHARMACEUTIQUE 289 156 Distribution
+DOW AGROSCIENCE 288 710 Agrochimie
+MARIE* 288 652 Plats cuisinés
+VETURA 288 199 Habillement
+HAGER ELECTRO 287 511 Appareillage électrique
+PAUL HARTMANN 287 235 Pansements, hygiène
+GENERAL MILLS-FRANCE 286 529 Agroalimentaire
+GD EXPRESS WORLDWIDE-FRANCE 286 224 Fret et logistique
+DELIFRANCE 285 071 Alimentation
+SONEN* 284 889 Matériaux de construction
+KUBOTA-EUROPE 284 878 Matériel agricole
+BMCE* 284 801 Equipement industriel
+CAMPENON BERNARD CONSTRUCTION 284 428 Bâtiment
+BEURALIA 281 831 Alimentation
+SCA 281 531 Centrale d’achats
+SNETOR CHIMIE* 281 346 Négoce de matières plastiques
+S3 281 312 Services
+RECYCLEX 280 800 Métallurgie, métaux non ferreux
+ESPRIT DE CORP-FRANCE 280 076 Habillement
+ROYER 280 000 Chaussures
+G7 ENTREPRISES 279 400 Mobilité, taxis
+SAGA 279 374 Transport
+COHESIS 278 099 Coopérative agricole
+AVIS LOCATION 277 520 Location de véhicules
+SEALED AIR 277 484 Emballages plastiques
+HERVE THERMIQUE 277 211 Génie climatique et électrique
+UNIVERSAL MUSIC FRANCE 277 170 Edition, imprimerie
+SNECMA PROPULSION SOLIDE* 276 659 Aéronautique
+CARGILL HAUBOURDIN 276 546 Produits amylacés
+GRAINEUROP* 276 540 Produits agricoles
+MAITRES LAITIERS DU COTENTIN 276 431 Produits laitiers
+EURIWARE* 276 258 SSII
+LANSON-BCC 276 040 Champagne
+VERIZON FRANCE 275 852 télécommunications filaires
+MAUBEUGE CONSTRUCTION AUTO* 275 528 Carrosserie
+ERILIA 275 432 Gestion immobilière
+EADS SOCATA 275 364 Aéronautique
+CHARIER 275 000 Travaux publics, carrières
+SCREG SUD-EST* 274 696 Bâtiment et travaux publics
+THYSSENKRUPP PRESTA-FRANCE 274 438 Fonderie
+BASELL POLYOLEFINES-FRANCE 274 350 Chimie
+EIFFAGE TRAVAUX PUBLICS NORD* 273 238 Travaux publics
+VILOGIA 273 069 Gestion immobilière
+MARTELL* 272 589 Boissons, spiritueux
+GLOBECAST FRANCE* 272 188 Télécoms
+NUTRITION ET SANTE 272 000 Produits diététiques
+TOUAX 271 772 Location de matériel maritime
+COLAS-EST* 271 606 Travaux publics
+RAGT 271 440 Agro-industrie
+ALMA CONSULTING GROUP 271 200 Conseil opérationnel en réduction de coût
+BRAUN MEDICAL 271 034 Matériel médico-chirurgical
+POMPES GRUNDFOS 270 000 Pompes
+VRANKEN-POMMERY MONOPOLE 269 810 Champagne
+HILTI-FRANCE 269 789 Matériel pour bâtiment et travaux publics
+EURIDEP 269 699 Peintures et vernis
+GINGER GROUPE 269 500 Ingénierie, infrastructures
+SURCOUF 269 465 Distribution micro-informatique
+BONNA SABLA 269 060 Matériaux de construction
+MAISONS DU MONDE 268 679 Equipement du foyer
+CIBA 267 353 Produits chimiques de spécialités
+BATEG* 267 164 Entreprise générale de Bâtiment
+SILOS SOUFFLET* 266 415 Alimentation
+SICAME 266 328 Matériel électrique
+KILOUTOU 265 145 Location
+CONTINENTALE NUTRITION 265 144 Aliments pour animaux
+CEGELEC SUD-OUEST* 262 384 Ingénierie électrique
+LOOK VOYAGES 262 008 Tourisme
+BRITISH AMERICAN TOBACCO FRANCE 261 982 Import-export
+CARTIER JOAILLERIE 261 887 Joaillerie
+INGREDIA 261 464 Produits laitiers
+JOSEPH WALLACH 260 502 Produits pétroliers, énergies renouvelables
+NORMANDE DE VOLAILLE* 260 446 Alimentation
+KSB 260 029 Pompes
+GLACES THIRIET 259 708 Crèmes glacées
+REGAZ BORDEAUX 259 513 Gaz naturel et géothermie
+COMAREG 259 390 Presse gratuite
+INTER PARFUMS 259 199 Parfums
+LIEBHERR-AEROSPACE TOULOUSE 258 843 Systèmes d’air pour l’aéronautique
+TREVES 258 622 Equipementier automobile
